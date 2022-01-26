@@ -1,0 +1,32 @@
+#score{
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'Neonderthaw', cursive; 
+}
+#timer{
+    float: right;
+    margin-right: 5px;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    background-color: crimson;
+}
+h1{
+    background-color: turquoise;
+    color: mediumvioletred;
+    font-family: 'Neonderthaw', cursive;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    color: teal;
+}
+#sketch_to_be_drawn{
+    font-family: 'Neonderthaw', cursive;
+    font-size: 25px;
+    color: mediumaquamarine;
+}
